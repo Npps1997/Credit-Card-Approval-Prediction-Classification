@@ -1,6 +1,8 @@
 # Credit Card Approval Status: Classification
 
 **Author:** Neeraj Kumar Paikra
+#### Detail Documentation: https://docs.google.com/document/d/1FUs_6PuCMFm6Ii-w1EdNe4py8zTwFFyAWn_kmGUcKDM/edit?usp=sharing
+#### SQL Questions: https://docs.google.com/document/d/1Pjo4JslsjsWge7FSE03BujS1fDgU0RTwrthhDSjaOmY/edit?usp=sharing
 
 ![68747470733a2f2f7777772e6361726472617465732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30382f7368757474657273746f636b5f3537363939383233302e6a7067](https://github.com/Npps1997/Credit-Card-Approval-Prediction-Classification/assets/96871890/08831849-a3be-433f-8f9f-ef831f55dee6)
 
