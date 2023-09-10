@@ -43,18 +43,18 @@ This GitHub repository contains code and documentation for a credit card approva
 
 ## Project Details
 
-## Introduction
+### Introduction
 - **Goal**: Create a classification model for credit card approval status.
 - **Objectives**:
   - Develop an accurate prediction model.
   - Identify influential approval factors.
   - Provide insights for informed lending decisions.
 
-## Dataset
+### Dataset
 - **Features**: Various client attributes (e.g., income, education, gender).
 - **Label**: Approval status (0 for approved, 1 for rejected).
 
-## Approach
+### Approach
 1. **Exploratory Data Analysis (EDA)**:
 
 | EDA Aspect                        | Description                                                                                         |
@@ -81,9 +81,9 @@ This GitHub repository contains code and documentation for a credit card approva
    - Assess model performance on test data.
    - Choose the best-performing model.
 
-## Results
+### Results
 
-### Feature Selection and Model Performance
+#### Feature Selection and Model Performance
 
 | Sr. No. | Feature Selection       | Best Algorithm      | Performance Metric | Score   |
 |---------|-------------------------|----------------------|--------------------|---------|
