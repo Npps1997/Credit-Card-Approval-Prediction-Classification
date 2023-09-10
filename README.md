@@ -106,7 +106,7 @@ This GitHub repository contains code and documentation for a credit card approva
 - **Evaluate More Models**: Experiment with other classification algorithms.
 - **Collect More Data**: Enhance model training with additional data.
 
-For detailed code and analysis, please refer to the project's Jupyter Notebook (`CAPSTONE_(Credit_Card_Approval_Classification).ipynb`).
+For detailed code and analysis, please refer to the project's Jupyter Notebook 'https://colab.research.google.com/drive/1nYP76QmZbSGzTGlZFP4vAB3TuMtzJEO-?usp=sharing`.
 
 ## Dependencies
 - Jupyter Notebook
